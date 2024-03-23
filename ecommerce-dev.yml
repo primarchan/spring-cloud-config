@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: E5qQQvKlg9b_WD_Q0SrvL8hlbELu9MiLobrK5AvadOo=
+  secret: R6qQQvKlg9b_WD_Q0SrvL8hlbELu9MiLobrK5AvadOo=
 
 gateway:
   ip: 172.30.1.68
