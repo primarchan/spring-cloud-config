@@ -3,7 +3,8 @@ spring:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb
     username: sa
-    password: "{cipher}146769623ebccc60099ff2857d7d4109647cc21516827d06398e35d53b0cbb4c"
+    password: "{cipher}AYCPQJaYANUvzQlCevQGlHF9dEGM7uWiV6rHIHh5vF9teSb7fb1kvv7XIeR+ev6nMNl1TMhS61BuxELKsauvV1rudJzZKg9RNSk9OCe5/nvXrF9sWfLbrfurxEqoQ/o0gjKt5X5LhLvHXlUXd3ieL1GvM8rCKXiXrC5QNzs0nkBM26uorh6AS++WojHDZv1WxuBlDENf9CvH1BC2isSA0HSsPXQF8FUvkSzu8TecQsv9E3x19fY5BKrvUnixNHGZbCxQZo/mDlGQqw8YxxJ+wJZa8LmAdNezmwTjujktMUKF7WJxaddpMsdp3lKRNHPk3yF/JuxoSuWbPDhsDbhN8K/246Im7JwM1XKltRbW75tl1SU50rZcvW9YRgK+Kk1127n4h9ZF6hgYSR7LuUiTzx08yE710q3XB+dGm+rEXvomu1UmJbj78lzBQn7P/vqfgHz2uh3ZfVP0Pg0qQ5mRyqz0CQUEyfoOPZnGdsPTF/r8UN9HMC4ifSYdNpAAltg3ClG7AVBofs8He33l3kOc7t6Vq805wUeAcuQ0KtcpVH0mhA==
+"
 
 token:
   expiration_time: 86400000
